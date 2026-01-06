@@ -22,7 +22,8 @@ This project focuses on simplicity, usability, and a friendly UI while maintaini
 ---
 
 ## Screenshots
-screenshotsadd_contact.png
+![Add Contact](screenshots/add_contact.png)
+
 
 
 ---
