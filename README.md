@@ -22,7 +22,7 @@ This project focuses on simplicity, usability, and a friendly UI while maintaini
 ---
 
 ## Screenshots
-(screenshotsadd_contact.png)
+screenshotsadd_contact.png
 
 
 ---
